@@ -1,0 +1,10 @@
+Row level security: Types of implementation methods
+Calculating total sales for selected months and previous 2 months
+Data modeling: Fact and Dim tables, Star schema vs snowflake schema, Join type corresponding to each cardinality.
+Difference between ALL, ALLSELECTED, EXCEPT and SELECTEDVALUE
+M-Lang vs DAX
+Merge and Append in Power Querry
+Row and filter context
+Running Sum through DAX
+Nth highest value through DAX
+What is power querry and what type of operation could be performed on it
